@@ -1,1 +1,1 @@
-# Retail-sales-dashboard-Capstone-project
+This project analyzes a retail sales dataset containing 1,000 transactions across three product categories (Beauty, Clothing, Electronics) with customer demographic information. An interactive Power BI dashboard was built to uncover sales patterns, customer behavior, and revenue drivers.
